@@ -1,0 +1,12 @@
+## Statistical Learning
+
+```{r}
+print("hola!")
+```
+
+Lorem ipsum dolor sit amet
+
+```{r}
+reticulate::use_virtualenv("./venv")
+```
+
